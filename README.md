@@ -2,7 +2,24 @@
 
 ## In this Project I was not only a programmer, but also a Team Leader and a Project Manager as well.
 
+Lead time: 6 weeks.  
 
+From the very beginning of the project, I chose the "waterfall" model of the program development process. Also, we used the Kanban-board to create and maintain a work backlog (managed in Miro).  
+In addition to me, there were 4 other developers in the team.  
+The most technically competent member of the team was Arthur.  
+Therefore, the discussion of the work on the project was held with him.  
+We studied the terms of reference and distributed the writing of functions among all team members according to the principle of: difficult task - to a "strong" one, less difficult - to a "weak" one.  
+Subsequently, as simple tasks were completed, the weakest member of the team was assigned to create a test base for each individual module of the program.
+Arthur audited the written functions every 2 days.  
+I set up a schedule of meetings every 2 days. During meetings we shared information and the progress of our work. In addition, there was a constant conversation in the Slack, which I constantly followed, and in case of voicing any problems, I began to solve them as soon as possible (i.e. immediately).  
+Each stage of work on the product was completely controlled by me, any gaps in the functioning of teamwork were eliminated at the starting point.  
+The quality of the product was assessed by me daily and at the end of each working day I made a list of identified problems and tasks, putting them in the backlog.  
+Constant control, coordination and monitoring of activities made it possible to complete the project on time, hand it over to the customer (i.e. School 21) at the very first delivery.  
+Nothing was overlooked by Me, including the smallest details of the functioning of the team as a single organism. All deadlines were met and resources were used optimally and competently.  
+The project was delivered two weeks ahead of schedule.
+
+
+## Description
 Implementation of the string.h library with additions.
 
 ## Chapter I
