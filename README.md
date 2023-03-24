@@ -1,5 +1,8 @@
 # s21_string+
 
+## In this Project I was not only a programmer, but also a Team Leader and Project Manager as well.
+
+##
 Implementation of the string.h library with additions.
 
 ## Chapter I
