@@ -3,6 +3,12 @@
 ## In this Project I was not only a programmer, but also a Team Leader and a Project Manager as well.
 
 Lead time: 6 weeks.  
+  
+### Scrum
+Starting with planning, we divided the work into 4 parts - 4 sprints. All parts of the task were equally difficult.
+The progress of the work was visualized in Miro.
+Each sprint lasted 7 days, after which we reviewed the work done (by doing code reviews, regression testing) and decided whether everything was ready and whether it was possible to move on to the next part.
+Also, every day we met for 15 minutes and discussed what we did yesterday and what difficulties we had or are currently experiencing.
 
 ## Description
 Implementation of your own s21_decimal.h library.
