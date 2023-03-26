@@ -4,7 +4,7 @@
 
 Lead time: 6 weeks.  
   
-Waterfall  
+### Waterfall  
   
 From the very beginning of the project, I chose the "waterfall" model of the program development process. Also, we used the Kanban-board to create and maintain a work backlog (managed in Miro).  
 In addition to me, there were 4 other developers in the team.  
